@@ -1,7 +1,5 @@
 # Network Analysis of Human Protein Interaction Network
 
-*Vincent Billaut, Pierre-Louis Cedoz, Matthieu de Rochemonteix*  
-*CS224W - class project*
 
 ## List of resources
 
